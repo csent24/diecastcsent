@@ -12,5 +12,12 @@
         "scale": "1:24",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPN03eO7ykPaR8IdWTZiffmpK-d7pnOBUnAp7Sa-CCJm0IAkuHavyHtcCHpBzklW9VTQkTx_jZIzLdfMTHZAffG8IZVa5vsv0UavoB_-N-qHB10BayC3iGobJPk2jJzK9YJxhQj2561VvEZ4NIMHXP9hB3i1HSomeBhWZQcY_z06kgzD51W_FuFHh6Gt4/s1280/Die-Cast%20(YouTube%20Thumbnail)%20(1).jpg",
         "details": "A stunning 1:24 scale Cadillac Escalade."
-    }
+    },
+    {
+        "id": 3,
+        "name": "test",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPN03eO7ykPaR8IdWTZiffmpK-d7pnOBUnAp7Sa-CCJm0IAkuHavyHtcCHpBzklW9VTQkTx_jZIzLdfMTHZAffG8IZVa5vsv0UavoB_-N-qHB10BayC3iGobJPk2jJzK9YJxhQj2561VvEZ4NIMHXP9hB3i1HSomeBhWZQcY_z06kgzD51W_FuFHh6Gt4/s1280/Die-Cast%20(YouTube%20Thumbnail)%20(1).jpg",
+        "details": "A stunning 1:24 scale Cadillac Escalade."
+    }    
 ]
