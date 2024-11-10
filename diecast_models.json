@@ -3,14 +3,14 @@
         "id": 1,
         "name": "Toyota Land Cruiser V8",
         "scale": "1:24",
-        "image": "https://your-image-link.com/landcruiser.jpg",
+        "image": "https://drive.google.com/file/d/19AB-w3Q605nQtZ1i79zYRNQ0AFLfcWx4/view?usp=sharing",
         "details": "A detailed die-cast model of Toyota Land Cruiser V8."
     },
     {
         "id": 2,
         "name": "Cadillac Escalade",
         "scale": "1:24",
-        "image": "https://your-image-link.com/escalade.jpg",
+        "image": "https://drive.google.com/file/d/1yDVbHTTx4RF0ubYamrPoi2npm8Ar2WTN/view?usp=sharing",
         "details": "A stunning 1:24 scale Cadillac Escalade."
     }
 ]
