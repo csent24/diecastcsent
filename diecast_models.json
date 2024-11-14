@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Land Cruiser",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZGS2gmd5RHAfrp-FYzk-H6dvKOs7-bmmJFDTIY1K0oRB2yVzUg6Gl-2kuHfrJmoBaAwYGJjHp-Eq9tdrqEMdqWE3dxv-yJbQZZ7TopKMkzVoxThG8c1LEHOdPLI_r3fos74q88qdqt0Yg4osTuvDWZdlAKbOW9cGZr8_mb0gc8rstKmkDVQUkcgfFBps/s800/s-l1200.jpg",
+        "details": "A detailed diecast model of the Toyota Land Cruiser."
+    },
+    {
+        "id": 2,
+        "name": "Cadillac Escalade",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPN03eO7ykPaR8IdWTZiffmpK-d7pnOBUnAp7Sa-CCJm0IAkuHavyHtcCHpBzklW9VTQkTx_jZIzLdfMTHZAffG8IZVa5vsv0UavoB_-N-qHB10BayC3iGobJPk2jJzK9YJxhQj2561VvEZ4NIMHXP9hB3i1HSomeBhWZQcY_z06kgzD51W_FuFHh6Gt4/s1280/Die-Cast%20(YouTube%20Thumbnail)%20(1).jpg",
+        "details": "Premium diecast model of the Cadillac Escalade."
+    },
+    {
+        "id": 3,
+        "name": "Ford Mustang GT",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgKlUIq_sxTMXiBBM72NVt0pEhen-Lb6XXmAKNXDuSjdEHCoTN8Ihmv_ihoZ74cOhD6uIv0e8TKleypEnOSVyLA4svfIgK0PDJCoyVQqg2cZ8wUITCJxQ6D6Fv4mWl_UWV3qSDdPuL8axBDrp0IBDP7UZ_wPbUPyIHDkUJkgqh_F6RQwNYOh3dreYK5TBI",
+        "details": "Classic American muscle car diecast model."
+    },
+    {
+        "id": 4,
+        "name": "Chevrolet Camaro ZL1",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEh4nn3aqwG1ibGe9i1ZBAOw7nUyZym8uYHVvwHBJTP2Mw7f_XnHF-LRSzkqHgi_zZbAT8iFxSgcE3ojzmx_V0DveSZJBGH5VXsYAujByf3Mq4LkJklOMh9FKI6QRE_Zr02eh5jMpM1hG2OCLjqT8mhZghifdmzd4-RSDO_DAXTiJ5BWFEmSBxa6cakge4A",
+        "details": "High-performance Chevrolet Camaro diecast model."
+    },
+    {
+        "id": 5,
+        "name": "Lamborghini Aventador",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEilRRh_QRrRymApVFNdxISrsWYEdaPTXwycNpF--OOq1z7APIsZxYHzxYMnBig26cDhIMABKax8HaaP2wboossUVAaSIUWtkDtiC814ZhhnBNp3Mo8fGPGCldWovwcKw07IZxggjPah9fn12hhTMsk1SorGArPiljqmq00a9nEZ9b0UqT-n2twU8mRYiX0",
+        "details": "A luxury Lamborghini Aventador diecast replica."
+    },
+    {
+        "id": 6,
+        "name": "Ferrari F40",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhmjeK9jI7qRTKRuae-4IWB1XoaP_9QeaVntoPAGaf22JLPe3Kjh-x97qPny9zjccDV1STm4L4LQF3d3vB17vFe3uviJZINyF19tZdlekUgiYR2pttAGHzRXupbp0rAivREl5DqHtfqBZwJwYFQAPl__74dNBqoheRb3oCQDNtXvDtxA8Z7gDtIUe16s30",
+        "details": "Iconic Ferrari F40 model in diecast form."
+    },
+    {
+        "id": 7,
+        "name": "Bugatti Chiron",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj3qRb2fvFknrpmzSS4dZ7v_ZZaJKlAoczWgEXN5taaT4pq0ygZcoVDCsBU-jmOPtTDx6X1YzxPG9ieoyg5bIJfAR9Eg_RFgCTRzlsUKNBoGBTLWPFrxj3hT_ATg3znidV5eCQ6yv_m5I5adGFAZMW2Rub1tMVTeVFzCpJNJ99XId2LoxWruzkZfC95KfA",
+        "details": "Premium Bugatti Chiron diecast with intricate details."
+    },
+    {
+        "id": 8,
+        "name": "Porsche 911 Turbo",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhEx5vkdFfgMXblDBWgKsnlqw6J-F1rgWfFJVT-MceXBb8gqkJs0yeqVU1MsgaeDoOJ7C0-z9WmyP6W2rN-vpoM4FYhFY8HA3in6C51URww0kXSJ5ZnHXC11Dg3a5AjL03kG0EPI3Ofs_PwXw9PE8-NkU3q2z_g8qD6FzRyUFpdINvBuBSCA5aMLbL2FNQ",
+        "details": "Detailed Porsche 911 Turbo diecast model."
+    },
+    {
+        "id": 9,
+        "name": "Nissan GT-R R35",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhcGbGrpoCh7_K_0OO9T4UOb10K2JRdwqkq6JBpr73J-qwQ_F_aa0n3tgBPIii_LsCD62qQOB9a2B_AA-0t-kHCWHjJwX1_RdVgqkYuoSDcGX8hXzxKhzbtill2Zm9JWjHAwy5BvZwdjVjlBvIUNE5g-z46uw1efgQEEskkMmfuU25WoDKMoWYXwGWz2YM",
+        "details": "High-performance Nissan GT-R diecast."
+    },
+    {
+        "id": 10,
+        "name": "Dodge Challenger Hellcat",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj1-YtPYvctumjD8djhsUf2VYp-BHGLEvscMN8Ln04uKkg_wSIicxDyoe9mqKF48DfHfqXWwClUrCf1JlqcMmjPokxSbntJSwCsJlkuY79iA0ZPuqQCHXPKBKykrUDBK5iGQ4zXViefeZj0gO4wLqqiWaR5KFOUwBe7-xoB7lFYBhLvrGSoni1mPZ6NNc4",
+        "details": "A mean-looking Dodge Challenger Hellcat diecast."
+    },
+    {
+        "id": 11,
+        "name": "Tesla Model S Plaid",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhm-prI4DGUPsDpF0Nb5JkOWQ6mxA8Jk1xFZonU27lPShjnxW4VYiPxPwwh4EZq7pwK7FPJRuO7vgbcs-re-rxwkwaWuLIwX64xx0rRznTCK1M8KgODIh56_TOFYM18X2iR6b--s68F0ttcF-sFXFJJRS3P17Sxb9yCnl13NnHt3nIy2y-VLKbzdZ6u7EE",
+        "details": "Futuristic Tesla Model S Plaid diecast."
+    },
+    {
+        "id": 12,
+        "name": "Jeep Wrangler",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgErU2nVU9deyLQX3hnvPjCZvIB6gVPfL6SFPV1JwoRVjRaTmWp5LmoIPw_YwDj_2GEPhpuazASvh9zPTnFjXgP72JDEVfEEEo8xCXQAnk9sYEwTqq52F6hrpt9UokRiS7QRM2KacDdEOMFVJd7dOiq-XPACk69-nmcxMrO9HK6P7-ybIxCPDXHZYepL0g",
+        "details": "Rugged Jeep Wrangler diecast with off-road details."
+    },
+    {
+        "id": 13,
+        "name": "BMW M3 GTR",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhyuYY3F4n3_U0X3qWWyYJQatTu2jI8Loy0VqxURDyckUmKFCCR605nZpFeFNTDlcrg7kTI5egaJ8DPjCzjToaG-TwCuDACJJRCMB94dmSbyiKXw9N-UML8hWkPsWnPxWGw5cKNjfPR3RwmReFLg6itpBjswkmOY2zNljkEvD9qCsrHXRxT40srgi4ZkZ8",
+        "details": "A collectible BMW M3 GTR diecast model."
+    },
+    {
+        "id": 14,
+        "name": "Mercedes-Benz AMG GT",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjrmXeVNn5ZoToHAkhPqOpMA95IWI3S-E3zAfqdtdlMvowL3q3vGhmOzqux5S90c4FuCmfNIYDtfNfOdz8fnx8P0yBTNxu8wm3RgKanv-oCmZhELY4IqBbZoBYmOGOCnEd7pFkK6NO72TPl_NWIh-LGE0pzlJ9wOwZyT-No2itnuA0XgjoxVZ4qH1R283Q",
+        "details": "Luxury Mercedes-Benz AMG GT diecast."
+    },
+    {
+        "id": 15,
+        "name": "Audi R8 V10",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiVEX-mimR1C1Trl4Wu3J8VEZw_knU01lYmHrYX7av04Z9ffD1QKnYMCbzrvyN2E2MoJgqWtK0FIcs-yE0R8-9lubHYASQ0CNyp1MhEjtH4x_DxyPudTdHSpZKthdvVfJpOAhDsYB7GR-QCA5ud0nMlpe3vhFe6GJkctC2DRhN1jnefS1_aDex_6n4-oT8",
+        "details": "Sleek Audi R8 V10 diecast model."
+    },
+    {
+        "id": 16,
+        "name": "McLaren P1",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhvL45EkbNg9JR0lH3b6loPg6mNbFsgwHyUd4UIkwNBttiZqZ4nt5z6epT-pZISXLVll6fplfIvb2o7v5INtCEbPKwvAbg4DgzpdLwhMjHhdaifnROF3q-UFuFkJRB9yGe8N0ImcFxTaMVRngFlG_6SBAcsun5PfSwhuVLfTCPbIfhdTRuFYFEY41csNG0",
+        "details": "Exquisite McLaren P1 diecast replica."
+    },
+    {
+        "id": 17,
+        "name": "Aston Martin DB5",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgQ_fh0brUVWapyXkvHwjuZ_3_zqodAj3wjJ_8pJN62isr4zZxlcI2uqYVHULFZwVa18M-qy26d7l6zW1QYOJWWio3Z_YeNsRqmanrUXZ6XGmtGog0HutFENPZfFVqD6rRhI4d_fwECSpn12cx_MH0Mag4EyJD3d60FMlDULDeJXeMxpWP82kSmwMemc2k",
+        "details": "Classic Aston Martin DB5 diecast from James Bond."
+    },
+    {
+        "id": 18,
+        "name": "Volkswagen Beetle",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEj5x1D3v4RLPO7zflFyHkWXKvmI6ybErwBzezo1ukbkpFynhfF861SNcA1hUbv09b0Yqy5sm332awNevwmPatOJGbxb5EpHnEUKR1tirwhCBWtQhCGwipaEmyH3Q5dvKuTRylQA85fG80MjHO1Wju3mZ1SzGmxQlVDMC3xKcECTFyTsB7fWtTa1QoBjops",
+        "details": "Vintage Volkswagen Beetle diecast model."
+    },
+    {
+        "id": 19,
+        "name": "Mini Cooper",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjfUuK4T7mO0hLNe7S57j2oNmGNQ6QCVNXksA3wA4srpdJ1_UAyI2xR7G2LNvU4RAMW6PAuHYsGmO5oZr28NqsXwtuOUnxsH5orCWaND4AQYQZ2bSNTCWcKYFg0mni3o63duIOc23Gk4iZ0o0sxvyZNwPeRlRCu9aiyWu8GUpEloeHSlm9Tj0n5ac_FoXY",
+        "details": "Charming Mini Cooper diecast replica."
+    },
+    {
+        "id": 20,
+        "name": "Chevrolet Corvette C8",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhBaBsuU3AZdp4X1Bdo1uCxWufUWrJIK9fkI5kXGCG9rLgchPqXoH5pl4S3-zHj4HPQdeuH1d1GVr3XEtumxMR5M9T1YQZ-676ukYjl-Diero9YHOKzZqXILCE4efIwfDRk7xWzEwRRVvP0wJThpMjbqamFcmfCXKFNdzH34OnRoo6D0tDn5BySWELW6aI",
+        "details": "Modern Chevrolet Corvette C8 diecast."
+    },
+	{
+        "id": 21,
+        "name": "Subaru Impreza WRX",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgD9YAi-IlQloN5499_V6LFPDWyBNOp36_KRtWSmyNvial-lPM2em2E_Qvv_5nL-DYJ2qGVA7K0TI8KWo3APPNQcCvONZLZAzwRUc7qVIpLq1NU8E0uywhL6Ht3EEzNmwpVIMDbGTclM0v-0n-Pu8FAfz1j0LJOu4Y6td5tJcLVKQbus_WYvQG_394yzgA",
+        "details": "Sporty Subaru Impreza WRX with rally-inspired details."
+    },
+    {
+        "id": 22,
+        "name": "Honda Civic Type R",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhzH1SYjoYD1Ouu5JgU3TbV_kNpDHazTRRZSOzm495E1Tj2RGZU1VGI7ybsJjEVjaYC3Vyh3QJDuK1Nv1VDoo2gek7kPTl0ldl7pqBlTfzLCXYFR0vLopEmXVWirGJ4ZK9pxdLfSKXVoyQxOv3QoZojfYMmRAedUPfYbtA8mrsNuIMiVFOcwu-ZSCiZkkY",
+        "details": "The iconic Honda Civic Type R in diecast form."
+    },
+    {
+        "id": 23,
+        "name": "Mazda RX-7 FD",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjUW86l2QjHgW8qKCb5q8AJDWdO2j7H_rnAOLOK8yvFrVvWlZu7zIx2GJE2VKBSrmSDvBaGaTNHi4KOxRdGWUV-VjwMK_m8ZfaH0gYlQ2YmMn8bzJQduWqnKtxyuYudshBEIlGXo-15_T5wYVbUsl1DAXDMKCuaQlar5ZW3FZZxnINvwiYrabdVeQqTAac",
+        "details": "The legendary rotary-powered Mazda RX-7 diecast."
+    },
+    {
+        "id": 24,
+        "name": "Ford F-150 Raptor",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiD41O97QQSWu_SMPu8HkQJJ3r3tfYdGX660FLOjTorIrc-hPGrjHWJ-yURWoG9TZX0xEkw6kKUgt1hnBlef80b-YiGIvWDU3COwHGT37m3BwSeBFYnm4y9V198fAXeJLBGqUykCvlAXpoR45fbBd-2Gtb6ezDBHWlCtaTPpm2olp6P87oFAssAEVdaM60",
+        "details": "Rugged Ford F-150 Raptor diecast for truck enthusiasts."
+    },
+    {
+        "id": 25,
+        "name": "Toyota Supra MK4",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhyHtC1abcDp52AaExC-LBujr-Ja3d0Dm4XT6O3TYe3qTNSiVb4goeiqJPlOEUBxIorvPQxV88o1kPcN2TlruJwdwFk_d1aSk4-se1lpwj7ctHVdMiVDosFB-pwMDfU-Z0ZSPtGTXe3CSapViFKGiHZV3peYdJ4Km8FmAPWYPrzw_3zEU8erZPdL5GJP4M",
+        "details": "A highly detailed model of the iconic Toyota Supra MK4."
+    },
+    {
+        "id": 26,
+        "name": "Chevrolet Impala SS",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgzjsLzxgjZIWw9Ys38FYMD2KI4m7coZsX6JXTZIEzWeWjNtSKIokQcEsSfMuBQFqviPJUDa7cxEtfScnqOUmxjFzbHNQqU7r06J4x5-DQ-FlsCiRpbmaH5vbXLLmpiYkiqE5lqV5wQ82upmzTpwnakXD7dEPal3saoUfWKyZPAjCHnZ0P0mdhepzfo6LA",
+        "details": "Vintage Chevrolet Impala SS with classic styling."
+    },
+    {
+        "id": 27,
+        "name": "Pagani Zonda R",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhefNcs9T6MrrCZW5dz5hR_SE99zZvLvsEpuMKyMz9jf-H8Y57fR56Ec8BpeW19-V-JXJox5l2Y3TRkQenFteD6TgXmVoDnTCYB0u68YARqQTkNbk5WHW5Ws2d317Vyfo8oNiseUYYuJ6LplHCrIQy7R11WvZJyY_hYvdxrUkfUJPbm-xDfT5XMzbLbkHE",
+        "details": "Exotic Pagani Zonda R diecast with exquisite detailing."
+    },
+    {
+        "id": 28,
+        "name": "Jaguar F-Type",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhGe1qXMxQIn_4HJJpz8W9-CjgX4D5nmg_keEqtJ7ice9ZCD40xor2WMx9T5-Z9CEXuy2BAHkeFwIg75_hJvOarLyHaEFw1L00neLNd-Tt0MB4ri-wrhjCMaxgloE8wGciF9fN_-d-gQ_Q3Ouuxff5PN0vMoOWqTdx_OzUL-5p156eYKQhm2iU8mRHPCVk",
+        "details": "Luxury Jaguar F-Type diecast with a sleek design."
+    },
+    {
+        "id": 29,
+        "name": "Rolls-Royce Phantom",
+        "scale": "1:18",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEh3dCVefyniZ9RGYfR-my0aXBbyC0L9OWlLSb-n2LsH-GaXBiLvnHT41iq6qMV_4Ee3wk95h1XtWedJ3R0kWwglcQX5McTleLtp7_5PmmoyKKmUtxI_bp41N1FDxcFFHzupOQ6N3-bKrWoedohkQP9bwgO9hznzpZpHSkR2nKi35oZ3X5zWI3A01Enj5R8",
+        "details": "Elegant Rolls-Royce Phantom diecast for collectors."
+    },
+    {
+        "id": 30,
+        "name": "Volkswagen T1 Camper",
+        "scale": "1:24",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjL2pfAn3E7-ohTDt481HezH6MzoTn_Qe7EE1qAjniLGqKCuFbfllL8rcBL-z9qVimSl4oG6zamOHi8pn_Ji1GbZVyLOe9mSCCNibntCvfXKZKJf_iVvSKeTh03zL7t3YHwCb2AdKi6kzHFCtVU_qy4EA_FR5jwFMH_k9l3yofLPQhFMPOFNz6Jd_RAW1Q",
+        "details": "Classic Volkswagen T1 Camper van diecast model."
+    }
+]
